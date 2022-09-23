@@ -1,4 +1,5 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](![banner](https://user-images.githubusercontent.com/102468081/191901596-3a4d1dd4-55ef-4319-97b6-2f877cac728f.png)
+
 <h1 align="center">Hi 👋, I'm Shammi Shriyan</h1>
 <h3 align="center">A passionate frontend Python developer from India(Still learning)</h3>
 <img align="right"alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
