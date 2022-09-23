@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sensaishammi@gmail.com**
 
-- ⚡ Fun fact **I am a national level footballer,Ex-jee aspirant,District level Judo Player and lots more.......**
+- ⚡ Fun fact **I am a national level footballer,Ex-jee aspirant,District level Judo Player,Esports enthusiast and lots more.......**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
