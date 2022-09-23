@@ -1,4 +1,4 @@
-![MasterHead](![banner](https://user-images.githubusercontent.com/102468081/191901596-3a4d1dd4-55ef-4319-97b6-2f877cac728f.png)
+![banner](https://user-images.githubusercontent.com/102468081/191901596-3a4d1dd4-55ef-4319-97b6-2f877cac728f.png)
 
 <h1 align="center">Hi 👋, I'm Shammi Shriyan</h1>
 <h3 align="center">A passionate frontend Python developer from India(Still learning)</h3>
